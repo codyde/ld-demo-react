@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ld-demo-react/static/css/main.29c60806.css",
-    "main.js": "/ld-demo-react/static/js/main.bb446d98.js",
+    "main.css": "/ld-demo-react/static/css/main.89f73de7.css",
+    "main.js": "/ld-demo-react/static/js/main.33a4f757.js",
     "static/js/787.03bf77a9.chunk.js": "/ld-demo-react/static/js/787.03bf77a9.chunk.js",
     "static/media/LightSpeed_bg.png": "/ld-demo-react/static/media/LightSpeed_bg.2da5f10b4431e1d9ad80.png",
     "static/media/ld-white-wide.png": "/ld-demo-react/static/media/ld-white-wide.c7ccd94b41333f877744.png",
     "static/media/logo.svg": "/ld-demo-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ld-demo-react/index.html",
-    "main.29c60806.css.map": "/ld-demo-react/static/css/main.29c60806.css.map",
-    "main.bb446d98.js.map": "/ld-demo-react/static/js/main.bb446d98.js.map",
+    "main.89f73de7.css.map": "/ld-demo-react/static/css/main.89f73de7.css.map",
+    "main.33a4f757.js.map": "/ld-demo-react/static/js/main.33a4f757.js.map",
     "787.03bf77a9.chunk.js.map": "/ld-demo-react/static/js/787.03bf77a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29c60806.css",
-    "static/js/main.bb446d98.js"
+    "static/css/main.89f73de7.css",
+    "static/js/main.33a4f757.js"
   ]
 }
